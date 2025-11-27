@@ -1,7 +1,7 @@
-module Extract
+module Extraction
 
 open Config
-open Logging
+open Logger
 open System.IO
 open Docnet.Core
 open Docnet.Core.Models

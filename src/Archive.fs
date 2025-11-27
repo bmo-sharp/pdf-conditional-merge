@@ -1,7 +1,7 @@
 module Archive
 
 open Config
-open Logging
+open Logger
 open System.IO
 
 let archiveFiles groupedFiles =

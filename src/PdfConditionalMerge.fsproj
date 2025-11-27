@@ -7,8 +7,8 @@
 
   <ItemGroup>
     <Compile Include="Config.fs" />
-    <Compile Include="Logging.fs" />
-    <Compile Include="Extract.fs" />
+    <Compile Include="Logger.fs" />
+    <Compile Include="Extraction.fs" />
     <Compile Include="Archive.fs" />
     <Compile Include="Merge.fs" />
     <Compile Include="Program.fs" />
