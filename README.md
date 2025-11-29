@@ -18,4 +18,6 @@ documents generated did not display the order number in the file name itself.
 The solution was a utility similar to this one which would run periodically to
 combine all PDF files for the same order into a single document.
 
+This project is licensed under the MIT License. See LICENSE file for details.
+
 All licenses for third-party dependencies can be found in the licenses folder.
